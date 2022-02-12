@@ -1,7 +1,6 @@
 # PowerBI-sales-insights
 
-PowerBI is a very cool data analysis tool by Microsoft. One can make amazing-looking data visualizations dashboards. I wanted to have a basic knowledge of this tool so I followed a data Analysis project series from the codebasics youtube channel and the outcome is quite amazing.
-
+PowerBI is a very cool data analysis tool by Microsoft. A lot of people are using it to present data visualizations of their own by following the codebasics youtube channel tutorials on how the product works and what you can do with it. I wanted to have a fundamental understanding of this software, so I followed a video tutorial on how to make a basic PowerBI dashboard and came up with some pretty cool-looking results.
 
 # Problem Statement
 
